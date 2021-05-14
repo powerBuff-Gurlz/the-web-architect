@@ -1,0 +1,33 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+html {
+  font-size: 84%;
+}
+
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 88%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 92%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  html {
+    font-size: 96%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  html {
+    font-size: 100%;
+  }
+} */
